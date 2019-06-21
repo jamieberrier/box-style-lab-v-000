@@ -32,6 +32,7 @@ img {
 }
 
 img:hover {
+  transition-duration: 1s;
   
 }
 
