@@ -43,7 +43,7 @@ img:hover {
 }
 
 h4.amiable {
-  background: linear-gradient(to right, #198434, #44cc66)
+  background: linear-gradient(to right, #700, #a00)
 }
 
 .indifferent {
@@ -53,7 +53,7 @@ h4.amiable {
 }
 
 h4.indifferent {
-  background: linear-gradient(to right, #a0a016, #dddd22)
+  background: linear-gradient(to right, #700, #a00)
 }
 
 .dubious {
