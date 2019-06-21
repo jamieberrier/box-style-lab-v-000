@@ -60,6 +60,10 @@ h4.indifferent {
   background: linear-gradient(to right, #770, #aa0)
 }
 
+h4.indifferent:hover {
+  background: linear-gradient(to right, #aa0, #770);
+}
+
 .dubious {
   border: 1px solid #c13a3a;
   box-shadow:  -1px 1px #c13a3a, -2px 2px #c13a3a, -3px 3px #c13a3a, -4px 4px #c13a3a, -5px 5px #c13a3a;
