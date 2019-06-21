@@ -58,9 +58,11 @@ h4 {
 }
 
 .med {
+  border: 1px solid darkgray;
   width: 203.5%;
 }
 
 .large {
+  border: 1px solid darkgray;
   width: 303%;
 }
