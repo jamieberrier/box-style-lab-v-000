@@ -63,7 +63,7 @@ h4.indifferent {
 }
 
 h4.dubious {
-  background: linear-gradient(to right, #a02e2e, #dd4444)
+  background: linear-gradient(to right, #700, #a00)
 }
 
 h4.dubious:hover {
